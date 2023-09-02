@@ -1,0 +1,20 @@
+body{
+    background: #F3E5F5;
+}
+
+.primary-background{
+    background-color: #3F51B9!important;
+}
+
+#navbarSupportedContent ul li a {
+    /*color: black;*/
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+
+#navbarSupportedContent ul li a:hover {
+    color: black;
+    background-color: #adc49f;
+}
